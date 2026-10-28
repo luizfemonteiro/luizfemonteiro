@@ -136,7 +136,7 @@ end
 <br/>
 <sub>Site feito para mostrar meus projetos, com animações e visual futurista.</sub>
 <br/><br/>
-<a href="[https://SEU-LINK.vercel.app](https://luizfelipefmonteiro.vercel.app/)"><img src="https://img.shields.io/badge/VER%20SITE%20AO%20VIVO-00F0FF?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0D1117" /></a>
+<a href="https://luizfelipefmonteiro.vercel.app/"><img src="https://img.shields.io/badge/VER%20SITE%20AO%20VIVO-00F0FF?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0D1117" /></a>
 <br/><br/>
 <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Vite-0D1117?style=flat-square&logo=vite&logoColor=646CFF" />
