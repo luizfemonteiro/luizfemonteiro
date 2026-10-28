@@ -1,4 +1,4 @@
-[README (2).md](https://github.com/user-attachments/files/34084664/README.2.md)
+(https://github.com/user-attachments/files/34084664/README.2.md)
 <!-- ═══════════════════════════════════════════════════════════
      PERFIL GITHUB • luizfemonteiro • SYSTEM ONLINE
      Repositório necessário: luizfemonteiro/luizfemonteiro
