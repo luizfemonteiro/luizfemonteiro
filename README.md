@@ -1,4 +1,4 @@
-[README (1).md](https://github.com/user-attachments/files/34053446/README.1.md)
+[README (2).md](https://github.com/user-attachments/files/34084664/README.2.md)
 <!-- ═══════════════════════════════════════════════════════════
      PERFIL GITHUB • luizfemonteiro • SYSTEM ONLINE
      Repositório necessário: luizfemonteiro/luizfemonteiro
@@ -13,7 +13,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3200&pause=1000&color=7B2FF7&center=true&vCenter=true&width=700&height=50&lines=Estudante+de+Engenharia+de+Software;Desenvolvedor+Web+%7C+React+%2B+Python;Apaixonado+por+IA+e+Ciberseguran%C3%A7a;Em+busca+do+primeiro+est%C3%A1gio+%F0%9F%9A%80" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3200&pause=1000&color=7B2FF7&center=true&vCenter=true&width=700&height=50&lines=Estudante+de+Engenharia+de+Software;Aprendendo+C%2C+Banco+de+Dados+e+L%C3%B3gica;Apaixonado+por+IA+e+Ciberseguran%C3%A7a;Em+busca+do+primeiro+est%C3%A1gio+%F0%9F%9A%80" alt="typing" />
 
 <br/>
 
@@ -44,7 +44,7 @@ class LuizFelipe
 
   def initialize
     @role    = "Estudante de Engenharia de Software (Uniube)"
-    @focus   = ["Web", "Banco de Dados", "IA", "Cibersegurança"]
+    @focus   = ["C", "Banco de Dados", "Lógica de Programação", "Cibersegurança"]
     @english = "Em evolução no ICBEU"
     @mission = "Construir software útil e conquistar meu primeiro estágio"
   end
@@ -79,21 +79,22 @@ end
 
 ## `> stack --list`
 
-<img src="https://img.shields.io/badge/-FRONTEND-00F0FF?style=flat-square&labelColor=0D1117" />
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind&theme=dark" />
-
-<img src="https://img.shields.io/badge/-BACKEND%20%26%20LINGUAGENS-7B2FF7?style=flat-square&labelColor=0D1117" />
-
-<img src="https://skillicons.dev/icons?i=python,flask,c,nodejs&theme=dark" />
-
-<img src="https://img.shields.io/badge/-BANCO%20DE%20DADOS-FF2E88?style=flat-square&labelColor=0D1117" />
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark" />
-
-<img src="https://img.shields.io/badge/-INFRA%20%26%20SEGURAN%C3%87A-00F0FF?style=flat-square&labelColor=0D1117" />
-
-<img src="https://skillicons.dev/icons?i=linux,git,github,bash,powershell&theme=dark" />
+<table align="center">
+<tr>
+<td align="center" width="200">
+<img src="https://skillicons.dev/icons?i=c&theme=dark" /><br/><br/>
+<img src="https://img.shields.io/badge/LINGUAGEM%20C-00F0FF?style=flat-square&labelColor=0D1117" />
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/SQL-BANCO%20DE%20DADOS-FF2E88?style=for-the-badge&logo=databricks&logoColor=FF2E88&labelColor=0D1117" /><br/><br/>
+<img src="https://img.shields.io/badge/BANCO%20DE%20DADOS-FF2E88?style=flat-square&labelColor=0D1117" />
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/%7B%20%7D-L%C3%93GICA-7B2FF7?style=for-the-badge&labelColor=0D1117" /><br/><br/>
+<img src="https://img.shields.io/badge/L%C3%93GICA%20DE%20PROGRAMA%C3%87%C3%83O-7B2FF7?style=flat-square&labelColor=0D1117" />
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -105,14 +106,11 @@ end
 
 ## `> tools --active`
 
-<img src="https://skillicons.dev/icons?i=vscode,figma,notion,vercel,postman,npm,discord&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" />
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Claude-AI%20Assistant-7B2FF7?style=for-the-badge&labelColor=0D1117&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/Canva-Design-00C4CC?style=for-the-badge&labelColor=0D1117&logo=canva&logoColor=00C4CC" />
-<img src="https://img.shields.io/badge/CapCut-Edi%C3%A7%C3%A3o-FFFFFF?style=for-the-badge&labelColor=0D1117&logo=capcut&logoColor=white" />
-<img src="https://img.shields.io/badge/YouTube-Conte%C3%BAdo-FF0000?style=for-the-badge&labelColor=0D1117&logo=youtube&logoColor=FF0000" />
 
 </div>
 
