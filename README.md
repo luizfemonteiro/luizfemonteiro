@@ -129,7 +129,7 @@ end
 <td width="50%" align="center">
 
 <a href="https://github.com/luizfemonteiro">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=luizfemonteiro&repo=portfolio&theme=tokyonight&bg_color=0D1117&border_color=00F0FF&title_color=00F0FF&icon_color=7B2FF7&text_color=C9D1D9&hide_border=false" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=luizfemonteiro&repo=Portfolio&theme=tokyonight&bg_color=0D1117&border_color=00F0FF&title_color=00F0FF&icon_color=7B2FF7&text_color=C9D1D9&hide_border=false" />
 </a>
 
 **🌐 Portfólio Pessoal**
@@ -143,7 +143,7 @@ end
 </td>
 <td width="50%" align="center">
 
-<a href="https://github.com/luizfemonteiro">
+<a href="https://github.com/luizfemonteiro/Portifolio">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=luizfemonteiro&repo=alfred&theme=tokyonight&bg_color=0D1117&border_color=7B2FF7&title_color=7B2FF7&icon_color=00F0FF&text_color=C9D1D9&hide_border=false" />
 </a>
 
